@@ -1,0 +1,45 @@
+﻿﻿C＃企业级开发技术练习2答题卡
+
+班级：信管二班
+姓名：林进玮
+学号：20190307240
+
+注：放入答案放在序号下面。
+（一）
+amespace wifi2
+{
+    班级计划
+    {
+        静态void Main（string [] args）
+        {
+            string [] course = {“ javascrfpt”，“ .nct”，“ ecmascript”，“ golang”，“ java”};
+            整数i = 95;
+            foreach（课程中的字符串c）
+            {
+                我=我+ 2;
+                Console.Write（c.PadRight（11，'＆'））;
+                Console.WriteLine（$“ {i.ToString（）。PadLeft（5，'*'）}”））;
+            }
+        }
+    }
+}
+
+
+（二）
+amespace wifi2
+{
+    班级计划
+    {
+        静态void Main（string [] args）
+        {
+            string [] course = {“ javascrfpt”，“ .nct”，“ ecmascript”，“ golang”，“ java”};
+            整数i = 95;
+            foreach（课程中的字符串c）
+            {
+                我=我+ 2;
+                Console.Write（c.PadRight（11，'＆'））;
+                Console.WriteLine（$“ {i.ToString（）。PadLeft（5，'*'）}”））;
+            }
+        }
+    }
+}
